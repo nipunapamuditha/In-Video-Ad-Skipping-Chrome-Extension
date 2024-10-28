@@ -40,7 +40,5 @@ To install the Ad Skipper extension, visit the [Chrome Web Store](https://chrome
 
 For source code and further development details, check out the [GitHub repository](https://github.com/nipunapamuditha/In-Video-Ad-Skipping-Chrome-Extension).
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
 
